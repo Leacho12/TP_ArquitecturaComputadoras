@@ -1,4 +1,4 @@
-IHC y tecnologias moviles
+IHC y tecnologias moviles semana 12
 
 # TP_ArquitecturaComputadoras
 
